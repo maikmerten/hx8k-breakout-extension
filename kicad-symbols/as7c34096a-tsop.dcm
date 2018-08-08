@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AS7C38098A-TSOP
+D 512K X 8 BIT HIGH SPEED CMOS SRAM
+K AS7C34096a
+F http://www.alliancememory.com/pdf/sram/fa/as7c34096a_v2.1.pdf
+$ENDCMP
+#
+#End Doc Library
