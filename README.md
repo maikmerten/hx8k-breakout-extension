@@ -1,6 +1,8 @@
 # hx8k-breakout-extension
 A PCB with SRAM, buttons, LEDs and some pmod-compatible connectors for the Lattice HX8K Breakout Board
 
+**Please notice**: This PCB only carries SRAM with a data bus width of 8 bits. This is pretty narrow and can be performance-limiting. Also, let's be honest, this PCB layout is somewhat wacky. Perhaps you might consider building [a more recent design with 16-bit SRAM](https://github.com/maikmerten/hx8k-sram16-extension) instead.
+
 
 ![top side of the board](img/board-top.png?raw=true "top side")
 
